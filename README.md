@@ -1,4 +1,4 @@
-# SMS-Text-Classification
+# SMS Text Classification
 ## Used Machine Learning and Neural Networking to create a model that classifies a message as spam or ham.
 
 As part of freeCodeCamp's Machine Learning with Python curriculum, I had to work on the project "Neural Network SMS Text Classifier" where I used my knowledge of Machine Learning and Neural Network to create a simple RNN model that classifies a text message as ham(not spam) or spam.
